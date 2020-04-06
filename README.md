@@ -1,0 +1,2 @@
+# Dziedziczenie
+Podstawy dziedziczenia. Punkty 
