@@ -1,2 +1,4 @@
-# Dziedziczenie
-Podstawy dziedziczenia. Punkty 
+# Inheritance
+Basic inheritance in Java.
+
+Example with points.
